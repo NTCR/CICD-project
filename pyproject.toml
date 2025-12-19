@@ -6,7 +6,7 @@ authors = [
     {name = "Josep Burgués Calvo",email = "josepburgues@grandvaliraresorts.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.13"
 dependencies = [
 ]
 
