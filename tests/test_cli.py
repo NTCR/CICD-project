@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from src.myproject.cli import main
+from myproject.cli import main
 
 
 def test_version_prints_version(capsys):
